@@ -1,7 +1,7 @@
 # Intro
 Zabbix plugin for RackTables offers a limited functional of Zabbix monitoring system for objects of RackTables environment.
 Plugin uses open-source PHP class [library](https://github.com/confirm/PhpZabbixApi) to communicate with the Zabbix™ JSON-RPC API.  
-Please feel free to observe demo screenshots in [Wiki](https://github.com/skilsara/zabbix-plugin-for-racktables/wiki/Screenshots) tab.
+Please feel free to observe demo screenshots in [Wiki](https://github.com/skilsara/zabbix-plugin-for-racktables/wiki) tab.
 
 # How to install plugin
 1) Download a files "Zabbix.php" and "zabbix.config.php" from this repository to your server which runs RackTables.
